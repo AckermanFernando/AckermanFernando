@@ -8,8 +8,6 @@
 
 - 🔭   I’m currently working on [ClassSchedule](http://class-schudele.web.app/)
 - 🌱 I’m currently learning JavaScript, Node.js.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: 🌎
 
 [![Linkedin: Fernando Loiola](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jesielviana/)](https://www.linkedin.com/in/fernando-loiola-448705199)
