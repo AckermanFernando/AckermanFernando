@@ -2,7 +2,7 @@
 
 🧑‍🏫   Graduating at Instituto Federal do Piauí - IFPI
 
-🇧🇷   Living in Picos - PI/ Quiterianópolis - CE, Brazil
+🇧🇷   Living in Picos - PI / Quiterianópolis - CE, Brazil
 
 ### What I'm working on 👨‍💻
 
